@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en"> 
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewpoint" content="width=device-width, initial-scale = 1.0" />
+        <title>Contact</title>
+    </head>
+    <body>
+        <nav>
+            <a href="Index.html">Home</a>
+            <a href="About.html">About</a>
+            <a href="mygrades.html">Grades</a>
+            <a href="Contact.html">Contacts</a>
+        </nav>
+
+        <h1>Accounts</h1>
+        <ul>Name: Joehanne Harry Tauschek</ul> 
+
+        <form>
+            <label for="name">Name:</label>
+            <input type="text" id="name"><br>
+            <label for="Gmail">Gmail:</label>
+            <input type="text" id="name"><br>
+            <label for="Github">Github:</label>
+            <input type="text" id="name"><br>
+            <button>Send</button>
+            
+    
+        </form>
+        <li>
+            <a href="https://myaccount.google.com/?hl=en&utm_source=OGB&utm_medium=act&gar=WzEyMF0&pli=1">
+                <button>Gmail Accounts</button>
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/Joehanne000/WEBDEV1">
+                <button>GitHub Accounts</button>
+            </a>
+        </li>
+        <li>
+            <a href="https://maps.app.goo.gl/9Buv1U7iNA4418k8A">
+                <button>Location</button>
+            </a>
+        </li>
+
+    </body>
+</html>
