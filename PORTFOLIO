@@ -1,9 +1,15 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>HOME</title>
-    </head>
     <body>
-        <img src="images/"
+        <nav>
+            <a href="Index.html">Home</a>
+            <a href="About.html">About</a>
+            <a href="mygrades.html">Grades</a>
+            <a href="Contact.html">Contacts</a>
+        </nav>
+
+        <hr>
+        <h1>Joehanne Harry Tauschek</h1>
+        <img src="images/ITSME.webp" width="200">
     </body>
 </html>
