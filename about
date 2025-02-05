@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <nav>
+            <a href="Index.html">Home</a>
+            <a href="About.html">About</a>
+            <a href="mygrades.html">Grades</a>
+            <a href="Contact.html">Contacts</a>
+        </nav>
+        <article>
+            <p>I like Sleeping</p>
+            <p>I like paintings enen though I can't paint</p>
+            <p>Watching sunsets is so fun for me</p>
+        </article>
+    </body>
+</html>
